@@ -1,4 +1,4 @@
-# data-analyst-portfolio
+# Data-Analyst-Portfolio
 My data analysis projects, dashboards and insights
 
 # 👩‍💻 Nithya Ramalingam – Data Analyst Portfolio
