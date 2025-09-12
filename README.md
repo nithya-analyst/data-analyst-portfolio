@@ -13,7 +13,7 @@ I am a Data Analyst passionate about turning data into insights using Excel, SQL
 - **Tools Used:** Excel, SQL, Tableau,  Power BI
 - **Key Insight:** Low credit score reduces approval chances  
 - **Excel Dashboard Screenshot:**<img width="1542" height="770" alt="Screenshot 2025-09-12 170405" src="https://github.com/user-attachments/assets/52cd737c-fc45-4e04-8d0f-f72fed210143" />
-- **Tableau Dashboard Screenshot:![Uploading Screenshot 2025-09-12 171146.png…]()
+- **Tableau Dashboard Screenshot:**<img width="1542" height="770" alt="Screenshot 2025-09-12 170405" src="https://github.com/user-attachments/assets/52cd737c-fc45-4e04-8d0f-f72fed210143" />
 
 
 
