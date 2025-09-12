@@ -16,5 +16,6 @@ I am a Data Analyst passionate about turning data into insights using Excel, SQL
 - **Tableau Dashboard Screenshot:![Uploading Screenshot 2025-09-12 171146.png…]()
 
 
+
 ## 🛠 Skills
 Excel | SQL | Python | Tableau | Power BI
