@@ -20,4 +20,4 @@ I am a Data Analyst passionate about turning data into insights using Excel, SQL
 
 
 ## 🛠 Skills
-Excel | SQL | Python | Tableau | Power BI
+Excel | SQL | Python | Tableau | Power BI | R
