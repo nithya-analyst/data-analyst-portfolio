@@ -26,9 +26,9 @@ Excel | SQL | Python | Tableau | Power BI | R
 - **Objective:** Find factors for attrition,affecting retention rate.Analyzing working years and promotion patterns.
 - **Tools Used:** Excel, SQL, Tableau,  Power BI
 - **Key Insight:** Employees expect early promotions
-- **Excel Dashboard Screenshot:**<img width="1739" height="737" alt="Screenshot 2025-09-15 211522" src="https://github.com/user-attachments/assets/5d8508b6-c1d0-4ad4-a64e-4f0280640382" />
-- **Tableau Dashboard Screenshot:**<img width="1919" height="1110" alt="Screenshot 2025-09-12 171146" src="https://github.com/user-attachments/assets/1f7891da-1a6c-4a72-bf45-df662c9b896a" />
-- Power BI Dashboard Screenshot:
+- ## Excel Dashboard Screenshot:**<img width="1739" height="737" alt="Screenshot 2025-09-15 211522" src="https://github.com/user-attachments/assets/5d8508b6-c1d0-4ad4-a64e-4f0280640382" />
+- ## Tableau Dashboard Screenshot:**<img width="1919" height="1110" alt="Screenshot 2025-09-12 171146" src="https://github.com/user-attachments/assets/1f7891da-1a6c-4a72-bf45-df662c9b896a" />
+- ## Power BI Dashboard Screenshot:
 - This Shows Attrition details over various kind of factors
 - <img width="1524" height="861" alt="Screenshot 2025-09-15 191132" src="https://github.com/user-attachments/assets/3d151812-0660-4a1b-8ace-a12cbfebf3d1" />
 - This shows Employee's additional information like their working years comparison and their work life balance as well
