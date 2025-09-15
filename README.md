@@ -8,7 +8,7 @@ I am a Data Analyst passionate about turning data into insights using Excel, SQL
 
 ## 📊 Projects
 
-### 1️⃣ Bank Loan Analysis
+### 1️⃣ Bank Loan Analysis  Click here:<<[Link](url)>>
 - **Objective:** Find factors affecting loan approvals.Analyzing Key patterns and trends,also default and delinquent loans
 - **Tools Used:** Excel, SQL, Tableau,  Power BI
 - **Key Insight:** Low credit score reduces approval chances  
