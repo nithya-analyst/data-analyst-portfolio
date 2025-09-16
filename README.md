@@ -33,5 +33,5 @@ Excel | SQL | Python | Tableau | Power BI | R
 - This shows Employee's additional information like their working years comparison and their work life balance as well
 - <img width="1522" height="857" alt="Screenshot 2025-09-15 191156" src="https://github.com/user-attachments/assets/fb7812a2-f75d-4c6a-97bd-d48798730671" />
 - **Tableau Dashboard Screenshot:**<img width="1907" height="1099" alt="Screenshot 2025-09-16 124409" src="https://github.com/user-attachments/assets/4be5d7c5-1bfd-4834-a27d-27565f5b281e" />
-- **SQL script file:https://github.com/nithya-analyst/data-analyst-portfolio/blob/main/SQL%20Queries.sql
+- **SQL script file:https://[github.com/nithya-analyst/data-analyst-portfolio/blob/main/SQL%20Queries.sql](https://github.com/nithya-analyst/HR-Analytics/blob/main/HR%20sql.sql)
 
