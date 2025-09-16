@@ -22,7 +22,7 @@ I am a Data Analyst passionate about turning data into insights using Excel, SQL
 ## 🛠 Skills
 Excel | SQL | Python | Tableau | Power BI | R
 
-### 2️⃣ Hr Analytics
+### 2️⃣ Hr Analytics                                  <<Click here:[Link](https://github.com/nithya-analyst/HR-Analytics)>>
 - **Objective:** Find factors for attrition,affecting retention rate.Analyzing working years and promotion patterns.
 - **Tools Used:** Excel, SQL, Tableau,  Power BI
 - **Key Insight:** Employees expect early promotions
